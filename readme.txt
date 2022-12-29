@@ -26,3 +26,10 @@ python train_model.py
 For prediction:
 
 python test_model.py
+
+
+
+Citation
+https://github.com/kahst/BirdNET
+
+
