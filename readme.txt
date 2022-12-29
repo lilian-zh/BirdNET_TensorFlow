@@ -1,5 +1,7 @@
+This project is an implementation of BirdNET via tensorflow. Some changes in preprocessing and test part were made.
 
 
+######################################################
 Run the script to download audio files from xeno-canto:
 
 python download_xc_files.py
