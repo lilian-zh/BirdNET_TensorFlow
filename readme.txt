@@ -17,7 +17,7 @@ If data augmentation is required, run the command:
 python aug.py
 
 
-
+#######################################################
 Select the parameters you want in the Models/params.py file and run script to train the model with the command:
 
 python train_model.py
